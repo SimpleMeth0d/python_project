@@ -1,4 +1,6 @@
 def addition(x, y):
     print(x+y)
 
-addition(2, 5)
+
+def subtract(x, y):
+    print(x-y)
